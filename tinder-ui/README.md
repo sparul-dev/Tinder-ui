@@ -1,0 +1,1 @@
+-> daisy ui setup and navbar
