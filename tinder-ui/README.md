@@ -1,1 +1,4 @@
 -> daisy ui setup and navbar
+- createBrowserRouterand established routes
+- created footer
+- built login component
